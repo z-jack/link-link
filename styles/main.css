@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+/* CSS Document */
+#canvas{
+    cursor: default;
+    width: 300px;
+    height: 300px;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+    -webkit-touch-callout: none;
+    -webkit-tap-highlight-color: transparent;
+}
